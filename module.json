@@ -1,0 +1,14 @@
+{
+    "name": "The Hollow World of Aekko",
+    "title": "The Hollow World of Aekko",
+    "author": "HeckinWar",
+    "version": "1.0.1",
+    "minimumCoreVersion": "12.0",
+    "compatibleCoreVersion": "12.331",
+    "scripts": [
+        "init.js"
+    ],
+    "url": "https://github.com/HeckinWar/The-Hollow-World-of-Aekko",
+    "manifest": "",
+    "download": ""
+}

@@ -1,0 +1,1 @@
+console.log("The Hollow World of Aekko is properly installed!")
