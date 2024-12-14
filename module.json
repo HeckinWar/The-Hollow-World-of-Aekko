@@ -100,8 +100,8 @@
     }
   ],
   "url": "https://github.com/HeckinWar/The-Hollow-World-of-Aekko",
-  "manifest":"https://github.com/HeckinWar/The-Hollow-World-of-Aekko/releases/download/test/module.json",
-  "download":"https://github.com/HeckinWar/The-Hollow-World-of-Aekko/releases/download/test/The-Hollow-World-of-Aekko.zip",
+  "manifest":"https://github.com/HeckinWar/The-Hollow-World-of-Aekko/releases/download/1.0.0/module.json",
+  "download":"https://github.com/HeckinWar/The-Hollow-World-of-Aekko/releases/download/1.0.0/The-Hollow-World-of-Aekko.zip",
   "packs": [
     {
       "name": "adventuring-gear-5e",
