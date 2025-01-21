@@ -21,16 +21,6 @@
         "compatibility": {}
       },
       {
-        "id": "dae",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "midi-qol",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
         "id": "itemacro",
         "type": "module",
         "compatibility": {}
@@ -62,6 +52,16 @@
       }
     ],
     "recommends": [
+      {
+        "id": "dae",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "midi-qol",
+        "type": "module",
+        "compatibility": {}
+      },
       {
         "id": "actor-attribute-list",
         "type": "module",
@@ -99,8 +99,8 @@
     }
   ],
   "url": "https://github.com/HeckinWar/The-Hollow-World-of-Aekko",
-  "manifest":"https://github.com/HeckinWar/The-Hollow-World-of-Aekko/releases/download/1.0.0/module.json",
-  "download":"https://github.com/HeckinWar/The-Hollow-World-of-Aekko/releases/download/1.0.0/The-Hollow-World-of-Aekko.zip",
+  "manifest": "https://github.com/HeckinWar/The-Hollow-World-of-Aekko/releases/download/1.0.0/module.json",
+  "download": "https://github.com/HeckinWar/The-Hollow-World-of-Aekko/releases/download/1.0.0/The-Hollow-World-of-Aekko.zip",
   "packs": [
     {
       "name": "adventuring-gear-5e",
