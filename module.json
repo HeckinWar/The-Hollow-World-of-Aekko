@@ -1,7 +1,7 @@
 {
   "id": "the-hollow-world-of-aekko",
   "title": "The Hollow World of Aekko",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "compatibility": {
     "minimum": "11.0",
     "verified": "12.331"
@@ -49,6 +49,11 @@
         "id": "debugger",
         "type": "module",
         "compatibility": {}
+      },
+      {
+        "id": "vtta-tokenizer",
+        "type": "module",
+        "compatibility": {}
       }
     ],
     "recommends": [
@@ -63,22 +68,7 @@
         "compatibility": {}
       },
       {
-        "id": "actor-attribute-list",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
         "id": "too-many-tokens-dnd",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "token-attacher",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "improved-macro-editor",
         "type": "module",
         "compatibility": {}
       }
