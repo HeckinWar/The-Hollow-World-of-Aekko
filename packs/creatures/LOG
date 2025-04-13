@@ -1,8 +1,12 @@
-2025/04/01-00:17:22.227 7d7c Recovering log #1191
-2025/04/01-00:17:22.228 7d7c Delete type=0 #1191
-2025/04/01-00:17:22.228 7d7c Delete type=3 #1190
-2025/04/01-00:17:35.275 7e78 Level-0 table #1195: started
-2025/04/01-00:17:35.275 7e78 Level-0 table #1195: 0 bytes OK
-2025/04/01-00:17:35.275 7e78 Delete type=0 #1193
-2025/04/01-00:17:35.275 7e78 Manual compaction at level-0 from '!actors!0NN74D7vyTde9H30' @ 72057594037927935 : 1 .. '!folders!w8OS4b2Dx0SFjwsV' @ 0 : 0; will stop at (end)
-2025/04/01-00:17:35.275 7e78 Manual compaction at level-1 from '!actors!0NN74D7vyTde9H30' @ 72057594037927935 : 1 .. '!folders!w8OS4b2Dx0SFjwsV' @ 0 : 0; will stop at (end)
+2025/04/13-13:05:17.614 74a4 Recovering log #1277
+2025/04/13-13:05:17.614 74a4 Level-0 table #1281: started
+2025/04/13-13:05:17.617 74a4 Level-0 table #1281: 216879 bytes OK
+2025/04/13-13:05:17.618 74a4 Delete type=0 #1277
+2025/04/13-13:05:17.619 74a4 Delete type=3 #1275
+2025/04/13-13:05:17.869 6acc Moved #1281 to level-1 216879 bytes OK: files[ 0 1 1 0 0 0 0 ]
+2025/04/13-13:05:17.870 6acc Compacting 1@1 + 1@2 files
+2025/04/13-13:05:17.893 6acc Generated table #1283@1: 1533 keys, 1991270 bytes
+2025/04/13-13:05:17.893 6acc Compacted 1@1 + 1@2 files => 1991270 bytes
+2025/04/13-13:05:17.894 6acc compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/04/13-13:05:17.894 6acc Delete type=2 #1279
+2025/04/13-13:05:17.894 6acc Delete type=2 #1281

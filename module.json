@@ -1,13 +1,13 @@
 {
   "id": "the-hollow-world-of-aekko",
   "title": "The Hollow World of Aekko",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "compatibility": {
     "minimum": "11.0",
     "verified": "12.331"
   },
-  "flags":{
-    "dnd5e":{
+  "flags": {
+    "dnd5e": {
       "spellLists": [
         "Compendium.the-hollow-world-of-aekko.journals.JournalEntry.gSpat63A6KU5psqo.JournalEntryPage.SgW25Yi1tk1XPUdq",
         "Compendium.the-hollow-world-of-aekko.journals.JournalEntry.gSpat63A6KU5psqo.JournalEntryPage.wVarbpn1k1c3cFLR",
@@ -243,28 +243,6 @@
       "name": "materials",
       "label": "Materials",
       "path": "packs/materials",
-      "type": "Item",
-      "system": "dnd5e",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "material-effects",
-      "label": "Material Effects",
-      "path": "packs/material-effects",
-      "type": "Item",
-      "system": "dnd5e",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "item-recipies",
-      "label": "Item Recipies",
-      "path": "packs/item-recipies",
       "type": "Item",
       "system": "dnd5e",
       "ownership": {
